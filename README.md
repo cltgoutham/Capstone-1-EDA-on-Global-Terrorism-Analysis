@@ -3,7 +3,7 @@ This project is based on the database maintained by researchers at the National 
 
 ![pttp-begum-gucuk-terrorism-poster](https://user-images.githubusercontent.com/124442638/216917557-f1d1c5c1-62ca-4508-a3c2-725e417fafed.jpg)
 
-*INTRODUCTION*
+**INTRODUCTION**
 
 The Global Terrorism Database(GTD) is an open-source database which contains information about the terrorist activity around the world from 1970 to 2017. Even though we observe these news often we do not give much of an attention to the matter as the news are scattered or we neglect as it is not affecting us. We choose this project so that we can provide some insight on this topic, so that we can gather some valuable data and provide it with some visualization using interactive graphs. Visualizing the data make it more easy to understand where the activity is more, which group we have to look for, what all weapons are trending in the market etc.
 
