@@ -26,20 +26,20 @@ The analytics were done using Python libraries like Pandas and Numpy. First the 
 
 Some of the graphs used are:
 
- **Bar Graph: Using Plotly**
+ #**Bar Graph: Using Plotly**
 ![1](https://user-images.githubusercontent.com/124442638/216913495-54382616-9253-4e8b-93a8-4e10f998c2f0.png)
 
+#**Pie Chart**
 
- **Pie Chart**
 ![3](https://user-images.githubusercontent.com/124442638/216914530-b92b42f7-0b34-4aeb-8cb9-c7de8c58cc9c.png)
 
 
-**Line Graph: Using Plotly**
+#**Line Graph: Using Plotly**
 ![2](https://user-images.githubusercontent.com/124442638/216914503-7b48fdd8-b411-4069-84af-e2fad1465f04.png)
 
 
 
- **Stacked Bar Graph**
+ #**Stacked Bar Graph**
 ![4](https://user-images.githubusercontent.com/124442638/216914548-56d4cf91-f552-42e7-b7cb-d56e5a7fe020.png)
 
 
