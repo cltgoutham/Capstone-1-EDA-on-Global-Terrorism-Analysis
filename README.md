@@ -19,6 +19,10 @@ The GTD includes systematic data on domestic as well as international terrorist 
 
 Analysing the dataset gives us clear cut idea of what we are dealing with. Here we observe that the dataset is not perfect as there is a lot number of unfilled datas and many sub columns which is having very limited number of data. The dataset has to be cleaned before using it, under Data Wrangling section we cleaned the data, reduced the dataset into a limited number of colums from which we can easily analyse the data. Deleted unnecessary columns and created new columns from the existing ones, missiing/null value in the column where cleared. After the process of cleaning we took 16 most relevent columns and 181691 rows for the analysis. The columns contain data based on year, number of organisation, type of attack, weapons used, targeted individuals etc.
 
+Dataset :
+[csv file for Global Terrorism Analysis](https://drive.google.com/file/d/1rvuudnuWpWDeJLqfLvfjoFkyyN_1CpJ6/view?usp=share_link)
+
+
 
 **ANALYTICS/GRAPHS USED** 
 
