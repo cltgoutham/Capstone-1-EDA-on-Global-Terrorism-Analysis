@@ -1,7 +1,7 @@
 # Capstone-1-EDA-on-Global-Terrorism-Analysis
 This project is based on the database maintained by researchers at the National Consortium for the Study of Terrorism and Response to Terrorism(START).
 
-
+![pttp-begum-gucuk-terrorism-poster](https://user-images.githubusercontent.com/124442638/216916492-aeda040f-14a3-4e21-a87a-cb042d5806d1.jpg)
 
 **INTRODUCTION**
 
