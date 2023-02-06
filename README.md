@@ -25,12 +25,16 @@ Analysing the dataset gives us clear cut idea of what we are dealing with. Here 
 The analytics were done using Python libraries like Pandas and Numpy. First the codes were created for extracting the the required data and for visualizing it graphs were used. Python libraries like Matplotlib.pyplot, seaborn, plotly were used for visualization. Line, bar, and pie charts are mainly used in which line and bar using plotly gives us more of an interactive type graph, when we place the cursor on the graph it will show us the exact value for it. Stacked bar graph is used when we had multiple data to be plotted in the same bar. By using the explode function in pie chart the visualization were made better by taking the part of the whole pie highlighted.
 
 Some of the graphs used are:
+
  **Bar Graph: Using Plotly**
 ![1](https://user-images.githubusercontent.com/124442638/216913495-54382616-9253-4e8b-93a8-4e10f998c2f0.png)
+
 **Line Graph: Using Plotly**
 ![2](https://user-images.githubusercontent.com/124442638/216914503-7b48fdd8-b411-4069-84af-e2fad1465f04.png)
+
 **Pi chart**
 ![3](https://user-images.githubusercontent.com/124442638/216914530-b92b42f7-0b34-4aeb-8cb9-c7de8c58cc9c.png)
+
 **Stacked Bar Graph**
 ![4](https://user-images.githubusercontent.com/124442638/216914548-56d4cf91-f552-42e7-b7cb-d56e5a7fe020.png)
 
